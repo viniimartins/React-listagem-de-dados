@@ -73,6 +73,7 @@ export function App() {
           </TableBody>
         </Table>
 
+
         <Pagination />
       </main>
     </div >
